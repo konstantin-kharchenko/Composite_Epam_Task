@@ -1,0 +1,10 @@
+    Let's be honest: creating a good layout is not easy. This is
+need to be able to. If you are building applications that people will use,
+care must be taken to ensure that they look exactly as intended. So far
+So far, we've shown you how to use linear and compositional layouts.
+    But what if your layout is more complex? For such cases in Android
+a new feature has appeared layouts with restrictions, a variety of layouts,
+which is usually built in visual mode according to the scheme. You will learn how with
+constraints set the position and size of views regardless of size
+screen and orientation. At the end of the chapter, we will show how to save time by instructing.
+    Android Studio calculate and add limits for you.
